@@ -1,164 +1,113 @@
+# <div align="center">Hi 👋, I'm Sanjay Kotabagi</div>
+
 <div align="center">
 
-# 👨‍💻 Sanjay Kotabagi
-
-### Security Engineer • Detection Engineering • Threat Hunting • Security Automation
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Blue+Team+Tools;Detection+Engineering;Threat+Hunting;Microsoft+Sentinel+%7C+Defender+XDR;Python+Automation;MITRE+ATT%26CK" />
+### **Security Engineer • Detection Engineering • Threat Hunting • Security Automation**
 
 <p>
-
-<a href="https://linkedin.com/in/sanjaykotabagi">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sanjaymkotabagi@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://stackoverflow.com/users/13660362">
-<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-</a>
-
+Building practical cybersecurity tools, detection logic, and automation that help SOC teams investigate threats faster.
 </p>
 
-![](https://komarev.com/ghpvc/?username=SanjayKotabagi&style=for-the-badge&color=0e75b6)
+<p>
+<a href="https://linkedin.com/in/sanjaykotabagi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sanjaymkotabagi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/13660362"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://facebook.com/pritvi.kotabagi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=SanjayKotabagi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-# 🚨 Building Security Products
+# 👨‍💻 About Me
 
-Instead of writing reports...
+```yaml
+Name        : Sanjay Kotabagi
+Role        : Security Engineer | SOC Analyst
+Experience  : Enterprise Security Operations
+Location    : India
 
-I build tools that help SOC teams investigate alerts faster.
-
-Current focus:
-
-- 🔥 Detection Engineering
-- ⚡ Security Automation
-- 🛡️ Threat Hunting
-- ☁️ Microsoft Sentinel
-- 🧠 Defender XDR
-- 🐍 Python
-- 🎯 MITRE ATT&CK
-
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🛡️ IOC Intelligence Platform
-
-✔ VirusTotal
-
-✔ AbuseIPDB
-
-✔ URLScan
-
-✔ GreyNoise
-
-✔ ThreatFox
-
-✔ WHOIS
-
-</td>
-
-<td width="50%">
-
-## 🌐 URL Reputation Scanner
-
-✔ Multi-engine analysis
-
-✔ URL Intelligence
-
-✔ Malware detection
-
-✔ Risk scoring
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 📧 Phishing Investigation Platform
-
-✔ SPF
-
-✔ DKIM
-
-✔ DMARC
-
-✔ URL extraction
-
-✔ Attachment analysis
-
-</td>
-
-<td>
-
-## 🤖 SOC AI Assistant
-
-✔ Alert summarization
-
-✔ MITRE Mapping
-
-✔ Investigation guidance
-
-✔ IOC enrichment
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💻 Tech Arsenal
-
-### Blue Team
-
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure)
-
-![Defender](https://img.shields.io/badge/Defender_XDR-5E5ADB?style=for-the-badge)
-
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-red?style=for-the-badge)
-
-![SIEM](https://img.shields.io/badge/SIEM-black?style=for-the-badge)
-
-![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-darkgreen?style=for-the-badge)
-
----
-
-### Languages
-
-Python • PHP • PowerShell • SQL • JavaScript • Bash
-
----
-
-### Currently Learning
-
+Focus Areas:
+  - Detection Engineering
+  - Threat Hunting
+  - Security Automation
+  - Incident Response
+  - Microsoft Security
+  - Open Source Security Tools
 ```
-███████████████████░░░ 90%  Microsoft Sentinel
 
-█████████████████░░░░░ 82%  KQL
+---
 
-████████████████░░░░░░ 80%  Detection Engineering
+# 🚀 Current Mission
 
-███████████████░░░░░░░ 75%  Azure Security
+* Build enterprise-grade Blue Team tools
+* Publish open-source SOC utilities
+* Master Detection Engineering
+* Develop AI-assisted security investigation platforms
+* Contribute to the cybersecurity community
 
-██████████████░░░░░░░░ 72%  Threat Hunting
-```
+---
+
+# 🛡 Featured Security Projects
+
+| Project                       | Description                                                                           |
+| ----------------------------- | ------------------------------------------------------------------------------------- |
+| 🔍 IOC Intelligence Platform  | Multi-source IOC enrichment using VirusTotal, AbuseIPDB, URLScan, GreyNoise and WHOIS |
+| 🌐 URL Reputation Scanner     | Detect malicious URLs using threat intelligence APIs                                  |
+| 🌍 IP Reputation Scanner      | IP enrichment, blacklist lookup, ASN, geolocation and risk scoring                    |
+| 📧 Email Phishing Analyzer    | Analyze headers, SPF, DKIM, DMARC, URLs and attachments                               |
+| 🤖 SOC AI Assistant           | AI-powered alert summarization, MITRE mapping and investigation guidance              |
+| 📊 Detection Rules Repository | Sigma Rules, KQL Queries and Detection-as-Code                                        |
+
+---
+
+# ⚔ Security Expertise
+
+### Detection Engineering
+
+* Microsoft Sentinel
+* Defender XDR
+* KQL
+* Sigma Rules
+* MITRE ATT&CK
+* IOC Analysis
+* Threat Hunting
+* Incident Response
+
+---
+
+### Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,php,js,powershell,bash,mysql,sqlite,git"/>
+
+</p>
+
+---
+
+### Security Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux,windows,azure,github,vscode"/>
+
+</p>
+
+**Daily Tools**
+
+* Microsoft Sentinel
+* Microsoft Defender XDR
+* VirusTotal
+* URLScan
+* AbuseIPDB
+* Wireshark
+* Wazuh
+* Jira
 
 ---
 
@@ -166,7 +115,7 @@ Python • PHP • PowerShell • SQL • JavaScript • Bash
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanjayKotabagi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanjayKotabagi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayKotabagi&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -178,26 +127,93 @@ Python • PHP • PowerShell • SQL • JavaScript • Bash
 
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayKotabagi&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
 ---
 
-# 🎯 2026 Mission
+# 🏆 GitHub Achievements
 
-✅ Build India's best open-source SOC toolkit
+<p align="center">
 
-✅ Publish 100+ Detection Rules
+<img src="https://github-profile-trophy.vercel.app/?username=SanjayKotabagi&theme=tokyonight&no-frame=true&column=4"/>
 
-✅ Publish 500+ KQL Queries
+</p>
 
-✅ Build AI-powered SOC Platform
+---
 
-✅ Contribute to Detection Engineering Community
+# 📚 Currently Learning
 
-✅ Land a Senior Security Engineer role
+```text
+█████████████████████░░░ 90%  Microsoft Sentinel
+
+████████████████████░░░░ 85%  KQL
+
+███████████████████░░░░░ 80%  Detection Engineering
+
+██████████████████░░░░░░ 75%  Threat Hunting
+
+█████████████████░░░░░░░ 72%  Security Automation
+
+████████████████░░░░░░░░ 70%  Azure Security
+```
+
+---
+
+# 🎯 2026 Goals
+
+* Build 20+ Open Source Security Tools
+* Publish 500+ KQL Queries
+* Publish 100+ Sigma Rules
+* Create a SOC AI Investigation Platform
+* Contribute to Detection Engineering
+* Become a Senior Security Engineer
+
+---
+
+# 📂 Featured Repositories
+
+⭐ SOC AI Assistant
+
+⭐ IOC Intelligence Platform
+
+⭐ URL Reputation Scanner
+
+⭐ IP Reputation Scanner
+
+⭐ Email Phishing Analyzer
+
+⭐ Detection-as-Code Repository
+
+---
+
+# 🤝 Connect
+
+<p>
+
+<a href="mailto:sanjaymkotabagi@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/sanjaykotabagi">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://stackoverflow.com/users/13660362">
+<img src="https://img.shields.io/badge/StackOverflow-Profile-orange?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-## "Automate what can be automated. Investigate what matters."
+## **"Build. Detect. Hunt. Automate."**
+
+*"Security is measured by the attacks you stop, not the alerts you receive."*
 
 </div>
