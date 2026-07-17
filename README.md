@@ -1,121 +1,166 @@
-# <div align="center">Hi 👋, I'm Sanjay Kotabagi</div>
+<!-- ========================= BANNER ========================= -->
 
 <div align="center">
 
-### **Security Engineer • Detection Engineering • Threat Hunting • Security Automation**
+# SANJAY KOTABAGI
 
-<p>
-Building practical cybersecurity tools, detection logic, and automation that help SOC teams investigate threats faster.
-</p>
+### Senior SOC Analyst • Detection Engineering Aspirant • Threat Hunting • Security Automation
 
-<p>
-<a href="https://linkedin.com/in/sanjaykotabagi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sanjaymkotabagi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/13660362"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-<a href="https://facebook.com/pritvi.kotabagi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=24x7+Blue+Team+Operations;Threat+Detection;Incident+Response;Detection+Engineering;Building+Open+Source+SOC+Tools;Microsoft+Sentinel+%7C+Python+%7C+MITRE+ATT%26CK" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=SanjayKotabagi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sanjaykotabagi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:sanjaymkotabagi@gmail.com)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/13660362)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# Terminal
 
-```yaml
+```bash
+$ whoami
+
 Name        : Sanjay Kotabagi
-Role        : Security Engineer | SOC Analyst
-Experience  : Enterprise Security Operations
-Location    : India
 
-Focus Areas:
-  - Detection Engineering
-  - Threat Hunting
-  - Security Automation
-  - Incident Response
-  - Microsoft Security
-  - Open Source Security Tools
+Role        : Senior SOC Analyst
+
+Experience  : Enterprise Security Operations
+
+Speciality  : Alert Investigation
+
+Target Role : Detection Engineer
+
+Location    : India
 ```
 
 ---
 
-# 🚀 Current Mission
+# Mission
 
-* Build enterprise-grade Blue Team tools
-* Publish open-source SOC utilities
-* Master Detection Engineering
-* Develop AI-assisted security investigation platforms
-* Contribute to the cybersecurity community
+> Build practical cybersecurity tools that reduce investigation time, improve detection quality, and automate repetitive SOC workflows.
 
 ---
 
-# 🛡 Featured Security Projects
+# Focus Areas
 
-| Project                       | Description                                                                           |
-| ----------------------------- | ------------------------------------------------------------------------------------- |
-| 🔍 IOC Intelligence Platform  | Multi-source IOC enrichment using VirusTotal, AbuseIPDB, URLScan, GreyNoise and WHOIS |
-| 🌐 URL Reputation Scanner     | Detect malicious URLs using threat intelligence APIs                                  |
-| 🌍 IP Reputation Scanner      | IP enrichment, blacklist lookup, ASN, geolocation and risk scoring                    |
-| 📧 Email Phishing Analyzer    | Analyze headers, SPF, DKIM, DMARC, URLs and attachments                               |
-| 🤖 SOC AI Assistant           | AI-powered alert summarization, MITRE mapping and investigation guidance              |
-| 📊 Detection Rules Repository | Sigma Rules, KQL Queries and Detection-as-Code                                        |
+🛡 Security Operations
 
----
+🔍 Threat Hunting
 
-# ⚔ Security Expertise
+⚡ Detection Engineering
 
-### Detection Engineering
+🐍 Python Automation
 
-* Microsoft Sentinel
-* Defender XDR
-* KQL
-* Sigma Rules
-* MITRE ATT&CK
-* IOC Analysis
-* Threat Hunting
-* Incident Response
+☁ Microsoft Sentinel
+
+📊 KQL
+
+🎯 MITRE ATT&CK
+
+🤖 AI for Security Operations
 
 ---
 
-### Programming
+# Featured Projects
 
-<p>
+## URL Reputation Scanner
 
-<img src="https://skillicons.dev/icons?i=python,php,js,powershell,bash,mysql,sqlite,git"/>
+Multi-engine URL investigation platform
 
-</p>
+✔ VirusTotal
 
----
+✔ URLScan
 
-### Security Tools
+✔ PhishTank
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux,windows,azure,github,vscode"/>
-
-</p>
-
-**Daily Tools**
-
-* Microsoft Sentinel
-* Microsoft Defender XDR
-* VirusTotal
-* URLScan
-* AbuseIPDB
-* Wireshark
-* Wazuh
-* Jira
+✔ Risk Score
 
 ---
 
-# 📈 GitHub Analytics
+## IP Intelligence Platform
+
+IOC enrichment
+
+✔ AbuseIPDB
+
+✔ VirusTotal
+
+✔ WHOIS
+
+✔ ASN
+
+✔ Geolocation
+
+---
+
+## SOC AI Assistant
+
+AI-powered SOC investigation
+
+✔ Alert Summary
+
+✔ MITRE Mapping
+
+✔ Investigation Steps
+
+✔ IOC Enrichment
+
+---
+
+## Email Phishing Analyzer
+
+✔ SPF
+
+✔ DKIM
+
+✔ DMARC
+
+✔ URL Extraction
+
+✔ Header Analysis
+
+---
+
+# Tech Stack
+
+## Security
+
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge)
+
+![Microsoft Defender](https://img.shields.io/badge/Defender_XDR-5E5ADB?style=for-the-badge)
+
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-red?style=for-the-badge)
+
+![KQL](https://img.shields.io/badge/KQL-blue?style=for-the-badge)
+
+![Sigma](https://img.shields.io/badge/Sigma-black?style=for-the-badge)
+
+---
+
+## Languages
+
+Python
+
+PHP
+
+JavaScript
+
+SQL
+
+PowerShell
+
+Bash
+
+---
+
+## GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanjayKotabagi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanjayKotabagi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayKotabagi&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -135,85 +180,42 @@ Focus Areas:
 
 ---
 
-# 🏆 GitHub Achievements
+# 2026 Roadmap
 
-<p align="center">
+⬜ Publish 20 Security Tools
 
-<img src="https://github-profile-trophy.vercel.app/?username=SanjayKotabagi&theme=tokyonight&no-frame=true&column=4"/>
+⬜ Publish 500 KQL Queries
 
-</p>
+⬜ Publish 100 Sigma Rules
+
+⬜ Master Microsoft Sentinel
+
+⬜ Transition into Detection Engineering
+
+⬜ Land a Senior SOC / Detection Engineer Role
 
 ---
 
-# 📚 Currently Learning
+# Current Learning
 
 ```text
-█████████████████████░░░ 90%  Microsoft Sentinel
+██████████████████████░░  Microsoft Sentinel
 
-████████████████████░░░░ 85%  KQL
+████████████████████░░░░  KQL
 
-███████████████████░░░░░ 80%  Detection Engineering
+███████████████████░░░░░  Detection Engineering
 
-██████████████████░░░░░░ 75%  Threat Hunting
+██████████████████░░░░░░  Threat Hunting
 
-█████████████████░░░░░░░ 72%  Security Automation
+█████████████████░░░░░░░  Python Automation
 
-████████████████░░░░░░░░ 70%  Azure Security
+████████████████░░░░░░░░  Azure Security
 ```
-
----
-
-# 🎯 2026 Goals
-
-* Build 20+ Open Source Security Tools
-* Publish 500+ KQL Queries
-* Publish 100+ Sigma Rules
-* Create a SOC AI Investigation Platform
-* Contribute to Detection Engineering
-* Become a Senior Security Engineer
-
----
-
-# 📂 Featured Repositories
-
-⭐ SOC AI Assistant
-
-⭐ IOC Intelligence Platform
-
-⭐ URL Reputation Scanner
-
-⭐ IP Reputation Scanner
-
-⭐ Email Phishing Analyzer
-
-⭐ Detection-as-Code Repository
-
----
-
-# 🤝 Connect
-
-<p>
-
-<a href="mailto:sanjaymkotabagi@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com/in/sanjaykotabagi">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://stackoverflow.com/users/13660362">
-<img src="https://img.shields.io/badge/StackOverflow-Profile-orange?style=for-the-badge"/>
-</a>
-
-</p>
 
 ---
 
 <div align="center">
 
-## **"Build. Detect. Hunt. Automate."**
-
-*"Security is measured by the attacks you stop, not the alerts you receive."*
+## "Every alert tells a story. My job is finding the truth."
 
 </div>
