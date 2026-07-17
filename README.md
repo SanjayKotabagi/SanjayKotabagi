@@ -1,157 +1,203 @@
-# Hi, I'm Sanjay Kotabagi 👋
+<div align="center">
 
-### Security Engineer | SOC Analyst | Detection Engineering | Security Automation
+# 👨‍💻 Sanjay Kotabagi
 
-I build tools that help security teams investigate threats faster, automate repetitive SOC tasks, and improve threat detection.
+### Security Engineer • Detection Engineering • Threat Hunting • Security Automation
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Blue+Team+Tools;Detection+Engineering;Threat+Hunting;Microsoft+Sentinel+%7C+Defender+XDR;Python+Automation;MITRE+ATT%26CK" />
 
-## About Me
+<p>
 
-• SOC Analyst with enterprise security operations experience
-• Focused on Detection Engineering & Security Automation
-• Building practical Blue Team tools using Python and PHP
-• Interested in Threat Hunting, Incident Response and Microsoft Security
-• Currently mastering KQL, Microsoft Sentinel, Defender XDR and SOAR
+<a href="https://linkedin.com/in/sanjaykotabagi">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="mailto:sanjaymkotabagi@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## Current Focus
+<a href="https://stackoverflow.com/users/13660362">
+<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
 
-- Detection Engineering
-- Microsoft Sentinel
-- Defender XDR
-- KQL
-- Python Security Automation
-- Threat Hunting
-- MITRE ATT&CK
-- Security Tool Development
+</p>
 
----
+![](https://komarev.com/ghpvc/?username=SanjayKotabagi&style=for-the-badge&color=0e75b6)
 
-# Featured Projects
-
-### IOC Reputation Checker
-Threat intelligence lookup using VirusTotal, AbuseIPDB and URLScan.
+</div>
 
 ---
 
-### URL Scanner
+# 🚨 Building Security Products
 
-Checks URLs against multiple threat intelligence sources and generates investigation reports.
+Instead of writing reports...
 
----
+I build tools that help SOC teams investigate alerts faster.
 
-### IP Reputation Scanner
+Current focus:
 
-Quick reputation lookup with malware, blacklist and geolocation information.
-
----
-
-### SOC AI Assistant
-
-AI-powered investigation assistant for analysts.
-
-Features:
-- IOC enrichment
-- MITRE mapping
-- Investigation summary
-- Detection recommendations
+- 🔥 Detection Engineering
+- ⚡ Security Automation
+- 🛡️ Threat Hunting
+- ☁️ Microsoft Sentinel
+- 🧠 Defender XDR
+- 🐍 Python
+- 🎯 MITRE ATT&CK
 
 ---
 
-### Phishing Analyzer
+# 🚀 Featured Projects
 
-Upload an email and receive:
+<table>
 
-- SPF
-- DKIM
-- DMARC
-- URL Extraction
-- IOC Analysis
-- Risk Score
+<tr>
+
+<td width="50%">
+
+## 🛡️ IOC Intelligence Platform
+
+✔ VirusTotal
+
+✔ AbuseIPDB
+
+✔ URLScan
+
+✔ GreyNoise
+
+✔ ThreatFox
+
+✔ WHOIS
+
+</td>
+
+<td width="50%">
+
+## 🌐 URL Reputation Scanner
+
+✔ Multi-engine analysis
+
+✔ URL Intelligence
+
+✔ Malware detection
+
+✔ Risk scoring
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 📧 Phishing Investigation Platform
+
+✔ SPF
+
+✔ DKIM
+
+✔ DMARC
+
+✔ URL extraction
+
+✔ Attachment analysis
+
+</td>
+
+<td>
+
+## 🤖 SOC AI Assistant
+
+✔ Alert summarization
+
+✔ MITRE Mapping
+
+✔ Investigation guidance
+
+✔ IOC enrichment
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## Skills
+# 💻 Tech Arsenal
 
-### Security
+### Blue Team
 
-- Microsoft Sentinel
-- Microsoft Defender XDR
-- Microsoft Defender for Endpoint
-- Incident Response
-- Threat Hunting
-- SIEM
-- IOC Analysis
-- Malware Investigation
-- MITRE ATT&CK
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure)
 
-### Programming
+![Defender](https://img.shields.io/badge/Defender_XDR-5E5ADB?style=for-the-badge)
 
-- Python
-- PHP
-- JavaScript
-- SQL
-- PowerShell
-- Bash
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-red?style=for-the-badge)
 
-### Web
+![SIEM](https://img.shields.io/badge/SIEM-black?style=for-the-badge)
 
-- HTML
-- CSS
-- Bootstrap
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- Jira
-- Wireshark
-- VirusTotal
-- URLScan
-- Wazuh
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-darkgreen?style=for-the-badge)
 
 ---
 
-## Certifications
+### Languages
 
-- Microsoft SC-200 (In Progress)
-- Microsoft AZ-500 (Planned)
+Python • PHP • PowerShell • SQL • JavaScript • Bash
 
 ---
 
-## GitHub Stats
+### Currently Learning
+
+```
+███████████████████░░░ 90%  Microsoft Sentinel
+
+█████████████████░░░░░ 82%  KQL
+
+████████████████░░░░░░ 80%  Detection Engineering
+
+███████████████░░░░░░░ 75%  Azure Security
+
+██████████████░░░░░░░░ 72%  Threat Hunting
+```
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanjayKotabagi&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanjayKotabagi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayKotabagi&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayKotabagi&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayKotabagi&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SanjayKotabagi&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## Connect With Me
+# 🎯 2026 Mission
 
-[LinkedIn](https://linkedin.com/in/sanjaykotabagi)
+✅ Build India's best open-source SOC toolkit
 
-Email:
-sanjaymkotabagi@gmail.com
+✅ Publish 100+ Detection Rules
 
-StackOverflow:
-https://stackoverflow.com/users/13660362
+✅ Publish 500+ KQL Queries
+
+✅ Build AI-powered SOC Platform
+
+✅ Contribute to Detection Engineering Community
+
+✅ Land a Senior Security Engineer role
 
 ---
 
-## 2026 Goals
+<div align="center">
 
-- Build 15 Open Source Security Tools
-- Publish 500+ KQL Queries
-- Publish 100 Sigma Rules
-- Contribute to Detection Engineering Community
-- Land Senior Security Engineer Role
+## "Automate what can be automated. Investigate what matters."
+
+</div>
